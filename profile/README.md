@@ -20,8 +20,7 @@
 ## Get in Touch
 
 - **Website**: [avantsoftchain.com](http://avantsoftchain.com)
-- **Twitter**: [@avantsoftchain](https://twitter.com/avantsoftchain)
-- **Email**: contact@avantsoftchain.com
+- **Email**: cesarhr@avantsoftchain.com
 
 ---
 *Building the future, one block at a time.*
