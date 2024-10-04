@@ -1,6 +1,6 @@
 # Avantsoftchain
 
-<img src="./metaImgEn-2ec65a14.png" alt="logo" height="500" width="100%">
+<img src="./metaImgEn-2ec65a14.png" alt="logo" height="450" width="100%">
 
 **Avantsoftchain** is an innovative organization focused on building scalable, decentralized blockchain and web-based solutions.
 
