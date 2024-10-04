@@ -1,6 +1,6 @@
 # Avantsoftchain
 
-![Avantsoftchain Logo]((https://github.com/Avantsoftchain/.github/blob/main/profile/metaImgEn-2ec65a14.png))
+![Avantsoftchain Logo](https://github.com/Avantsoftchain/.github/profile/metaImgEn-2ec65a14.png)
 
 **Avantsoftchain** is an innovative organization focused on building scalable, decentralized blockchain and web-based solutions.
 
