@@ -17,9 +17,5 @@
 - **Web Development**: React, Node.js, and more.
 - **NFT Standards**: ERC-721, ERC-1155.
 
-## Get in Touch
-
-- **Website**: [avantsoftchain](https://avantsoft.com.br/)
-
 ---
 *Building the future, one block at a time.*
