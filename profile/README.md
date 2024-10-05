@@ -20,7 +20,6 @@
 ## Get in Touch
 
 - **Website**: [avantsoftchain](https://avantsoft.com.br/)
-- **Email**: cesarhr@avantsoftchain.com
 
 ---
 *Building the future, one block at a time.*
